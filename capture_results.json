@@ -1,0 +1,19 @@
+{
+    "timestamp": "2024-10-31 07:45:00",
+    "successful": [
+        {
+            "url": "https://www.google.com",
+            "filepath": "screenshots\\www.google.com_20241031_074509.png",
+            "timestamp": "20241031_074509",
+            "attempts": 1
+        },
+        {
+            "url": "https://www.example.com",
+            "filepath": "screenshots\\www.example.com_20241031_074523.png",
+            "timestamp": "20241031_074523",
+            "attempts": 1
+        }
+    ],
+    "failed": [],
+    "total_urls": 2
+}

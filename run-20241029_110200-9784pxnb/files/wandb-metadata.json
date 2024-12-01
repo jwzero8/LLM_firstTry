@@ -1,0 +1,38 @@
+{
+  "os": "Windows-10-10.0.22631-SP0",
+  "python": "3.11.10",
+  "startedAt": "2024-10-29T03:02:00.519112Z",
+  "program": "initialSettings.ipynb",
+  "email": "jwzero8@connect.hku.hk",
+  "root": "C:\\Users\\ZGMF-X42S\\Desktop\\Computer Science learning resources (including grad school application materials)\\Udemy\\LLM Mastery Hands-on Code, Align and Master LLMs\\Jupyter Environment_LLM",
+  "host": "LAPTOP-P3FOF2OV",
+  "username": "ZGMF-X42S",
+  "executable": "C:\\Users\\ZGMF-X42S\\miniconda3\\envs\\test2\\python.exe",
+  "codePathLocal": "initialSettings.ipynb",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "510857834496",
+      "used": "450576773120"
+    }
+  },
+  "memory": {
+    "total": "16800092160"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 16
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+      "memoryTotal": "6442450944",
+      "cudaCores": 3840,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.3"
+}
